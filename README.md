@@ -14,4 +14,4 @@ Its a task project which implies simple object navigation made with Unity. Such 
   10. Quiting game (Exit Play Mode) save all instances created in play mode.
   11. For saving instances/data Persistent Data path have been used.
 
-The Unity Version used in this project is: Unity 2019.2.10f1 (Windows)
+* The Unity Version used in this project is: Unity 2019.2.10f1 (Windows)
